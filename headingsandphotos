@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+body {background-color: LightBlue}
+.parent {
+  text-align: center;
+}
+.parent > ul {
+  display: inline-block;}<!--Makes sure that the bullets are in line-->
+
+</style>
+
+	<br><title>About Me: Juliet Yeomans</title>
+</head>
+	<body>
+	<h1 align= "center"; style="color:black;">
+	<!-- This is CSS code -->
+		<br><strong>Hello there!</strong>
+	<hr width = "500px" /></h1>
+	<h2 align = "center">
+	<strong>My name is Juliet Yeomans</strong><br></h2>
+	<p align="center">
+	<img src="mountainphoto.jpg"
+	height= "500px" width= "650px"/><br></p>
+	<h3 align= "center"><big>You can find more information about my work experience, interests, and certifications on my 
+	<a href="https://www.linkedin.com/in/juliet-yeomans/" target= "_blank"> Linkedin page </a></big>.</h3>
+	<h4 align="center"><big> Here are some of my favorite hobbies:</big></h4>
+<div class="parent">
+	<ul align="left">
+		<li> Going to concerts and other live events</li>
+		<li> Staying active (Running, Yoga, going for walks)</li>
+		<li> Traveling the world!</li>
+	</ul>
